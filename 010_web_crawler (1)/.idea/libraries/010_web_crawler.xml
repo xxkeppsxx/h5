@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="010_web_crawler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/010_web_crawler/htmlparser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/010_web_crawler/htmllexer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
